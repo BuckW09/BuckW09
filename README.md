@@ -46,7 +46,7 @@
             <p>C#</p>
         </div>
         <div class="image-wrapper">
-            <img src="https://camo.githubusercontent.com/f447354c558bfa2704c92fa29d52e4686a067ed677bafc6cb666c5fdeab25916/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f68746d6c2d352e706e67" alt="HTML5">
+            <img src="https://camo.githubusercontent.com/f447354c558bfa2704c92fa29d52e4686a067ed677bafc6cb666c5fdeab25916/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f68746d6c2d352e706e67" alt="HTML5" width="120" alt="HTML5" data-canonical-src="https://img.icons8.com/color/2x/html-5.png" style="max-width: 100%;">>
             <p>HTML5</p>
         </div>
         <div class="image-wrapper">
