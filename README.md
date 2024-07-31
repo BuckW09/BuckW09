@@ -60,4 +60,57 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ícones de C#, Java, HTML, CSS e JavaScript</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            display: flex;
+            gap: 15px;
+        }
+        .image-wrapper {
+            text-align: center;
+        }
+        .image-wrapper img {
+            width: 80px;
+            height: auto;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
+        .image-wrapper p {
+            margin-top: 8px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image-wrapper">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#">
+            <p>C#</p>
+        </div>
+        <div class="image-wrapper">
+            <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java">
+            <p>Java</p>
+        </div>
+        <div class="image-wrapper">
+            <img src="https://camo.githubusercontent.com/f447354c558bfa2704c92fa29d52e4686a067ed677bafc6cb666c5fdeab25916/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f68746d6c2d352e706e67" alt="HTML5">
+            <p>HTML5</p>
+        </div>
+        <div class="image-wrapper">
+            <img src="https://camo.githubusercontent.com/945df1dad7199440bab8494495c7c6fd32802a5cd9fd1075225904f04b4be155/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f637373332e706e67" alt="CSS3">
+            <p>CSS
+
 
