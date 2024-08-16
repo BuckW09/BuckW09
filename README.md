@@ -198,14 +198,15 @@
         }
 
         .logo-container img {
-            width: 3000px; /* Reduzido para 50px */
+            width: 120; /* Reduzido para 50px */
             height: auto;
+        
         }
     </style>
 </head>
 <body>
     <div class="logo-container">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="Logo C#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="Logo C#"  style="max-width: 100%;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Logo CSS">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo HTML">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo JavaScript">
