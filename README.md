@@ -198,7 +198,7 @@
         }
 
         .logo-container img {
-            width: 100px; /* Reduzido para 50px */
+            width: 3000px; /* Reduzido para 50px */
             height: auto;
         }
     </style>
